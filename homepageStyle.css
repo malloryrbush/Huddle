@@ -1,0 +1,23 @@
+﻿body {
+    display: grid;
+    grid-gap: 8px 8px;
+    grid-template-columns: repeat(14, 1fr);
+    grid-template-rows: auto;
+    margin: auto;
+    font-size: 11px;
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    background: hsl(257, 40%, 49%);
+    background-image: url(Huddle/Images/bg-desktop.svg);
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold;
+}
+
+.logo {
+    grid-column: 2;
+    grid-row:10;
+}
