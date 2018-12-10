@@ -47,3 +47,9 @@ button {
     font-size: 16px;
     box-shadow: black 5px 5px 10px;
 }
+
+.social {
+    grid-column: 8/span 4;
+    grid-row: 19;
+    color:transparent;
+}

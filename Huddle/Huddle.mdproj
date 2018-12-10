@@ -16,5 +16,8 @@
     <None Include="Images\bg-desktop.svg" />
     <None Include="Images\logo.svg" />
     <None Include="Images\illustration-mockups.svg" />
+    <None Include="Images\facebookIcon.svg" />
+    <None Include="Images\twitter.svg" />
+    <None Include="Images\insta.svg" />
   </ItemGroup>
 </Project>
