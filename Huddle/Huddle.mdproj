@@ -15,5 +15,6 @@
   <ItemGroup>
     <None Include="Images\bg-desktop.svg" />
     <None Include="Images\logo.svg" />
+    <None Include="Images\illustration-mockups.svg" />
   </ItemGroup>
 </Project>
